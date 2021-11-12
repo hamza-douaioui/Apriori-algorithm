@@ -1,0 +1,5 @@
+Beer,Nuts,Diaper
+Beer,Coffee,Diaper
+Beer,Diaper,Eggs
+Nuts,Eggs,Milk
+Nuts,Coffe,Diapper,Eggs,Milk
